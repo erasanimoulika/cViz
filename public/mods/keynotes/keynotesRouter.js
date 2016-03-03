@@ -23,7 +23,5 @@ angular.module('keynotes')
         templateUrl: '/public/mods/keynotes/keynotesViewAdd.html',
         controller: 'keynotesControllerMain'
       });
-
-
     }
   ]);
